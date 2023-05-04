@@ -6,6 +6,9 @@ this is a demo repository which will be added to the jenkins dashboard and build
 this is the first update here 
 lets check it out in jenkins.
 
+poll scm changes here 
+welcome amigo!
+
 
 thank you.
 
